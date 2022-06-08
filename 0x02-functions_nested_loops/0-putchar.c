@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * main - prints putchar
+ * void main - prints putchar
  * reaturn value 0
  * return: alwys 0
  */
