@@ -2,9 +2,10 @@
 
 /**
  * main - prints putchar
+ * reaturn value 0
  * return: alwys 0
  */
-int void (main)
+int main(void)
 {
 _putchar('_');
 _putchar('p');
