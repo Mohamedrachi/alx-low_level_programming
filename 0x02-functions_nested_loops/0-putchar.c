@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * void main - prints putchar
- * reaturn value 0
+ * main - prints putchar
+ * Description: 'the program's description'
  * return: alwys 0
  */
 int main(void)
