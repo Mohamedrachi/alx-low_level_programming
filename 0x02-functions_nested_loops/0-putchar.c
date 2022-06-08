@@ -4,7 +4,7 @@
  * main - prints putchar
  * return: alwys 0
  */
-int main(void)
+int void main()
 {
 _putchar('_');
 _putchar('p');
