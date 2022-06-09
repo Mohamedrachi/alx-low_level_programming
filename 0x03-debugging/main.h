@@ -1,2 +1,2 @@
 void positive_or_negative(int i);
-void largest_number(int a,b,c);
+print_remaining_days();
