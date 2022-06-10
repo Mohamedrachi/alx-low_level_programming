@@ -1,14 +1,17 @@
-#include "main.h"
+#include "holberton.h"
 
 /**
- * print_numbers -> print numbers
+ * print_numbers -  checks for checks for a digit (0 through 9).
+ *
+ * Return: Always 0.
  */
-
 void print_numbers(void)
 {
-	int x;
+	int a;
 
-	for (x =0; x < 10; x++)
-		_putchar(x + '0')
-		_putchar('\n');
+	for (a = 48; a < 58; a++)
+	{
+		_putchar(a);
+	}
+	_putchar('\n');
 }	
